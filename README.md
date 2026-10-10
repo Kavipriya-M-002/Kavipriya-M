@@ -78,6 +78,13 @@ under the guidance of a Ph.D. faculty mentor at IIITDM Kancheepuram.
 
 *(Patent applications are identified as published applications, not granted patents.)*
 
+## 🏆 Achievements
+
+### People’s Choice Award 
+Our team has been dignified with the prestigious "The People's Choice Award" for our project "Aegistec-MCS", awarded by La Trobe University, Melbourne, Australia at their International Competition Technology Infusion Grand Asia Challenge 2022-23 with a cash prize of 2000 AUD.
+### Best Project Award
+Secured 1st Place in the "Innovation Challenge Track" for our project "Aegistec-MCS", at IEEE YESIST12 2022, organized by Sri Venkateswara College of Engineering (SVCE), Bangalore.
+
 ## 🎓 Education
 
 - **M.Tech, VLSI Design** — Vellore Institute of Technology, Vellore (2024–2026)
