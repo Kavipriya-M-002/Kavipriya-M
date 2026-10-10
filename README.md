@@ -27,7 +27,7 @@ Designed and simulated a 6T SRAM cell using 90 nm CMOS technology and evaluated 
 
 **Tools:** Cadence Virtuoso
 
-💻 [Project Repository](ADD_SRAM_REPOSITORY_LINK)
+💻 [Project Repository](https://github.com/Kavipriya-M-002/Comparative-Analysis-of-SRAM-Cells-for-Low-Power-Applications)
 
 ### 2. Segment-Selective TCAM Architecture with Index-Based Activation
 Developed a low-power TCAM architecture using selective segment activation to reduce unnecessary match-line switching activity during search operations.
