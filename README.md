@@ -88,5 +88,4 @@ under the guidance of a Ph.D. faculty mentor at IIITDM Kancheepuram.
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/kavipriya-m-05717034b/)
 - **GitHub:** [Explore my repositories](https://github.com/Kavipriya-M-002)
 - **Email:** kavipriya.murugan002@gmail.com
-
-I'm eager to connect with semiconductor professionals and explore opportunities in semiconductor industry. 
+  
