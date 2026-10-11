@@ -5,9 +5,10 @@
 I'm an M.Tech VLSI Design graduate from VIT, Vellore, with project experience in CMOS circuit design, low-power optimization, Verilog RTL development, and sensor fabrication. I'm interested in entry-level opportunities in Digital/Analog Design, RTL, and Semiconductor Fabrication.
 
 ## 🔬 Technical Interests
+
+- Semiconductor Technology and Fabrication
 - CMOS Circuit Design and Low-Power VLSI
 - Digital Design and RTL Development
-- Semiconductor Technology and Fabrication
 - Sensor Design and Composite Materials
 
 ## 🛠️ Technical Skills
