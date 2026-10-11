@@ -36,7 +36,7 @@ Developed a low-power TCAM architecture using selective segment activation to re
  
 💻 [Project Repository](https://github.com/Kavipriya-M-002/Segment-Selective-Ternary-Content-Addressable-Memory-Architecture-with-Index-Based-Activation)
 
-### 3. Inexact Floating-Point Adder — Error vs. Power Trade-off Analysis
+### 3. Error Estimation in Inexact Floating Point Adders
 Implemented an inexact floating-point adder in Verilog and evaluated the trade-off between computational accuracy, hardware complexity, and delay.
 
 **Tools:** Verilog, Xilinx Vivado
