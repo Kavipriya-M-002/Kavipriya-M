@@ -16,7 +16,7 @@ I'm an M.Tech VLSI Design graduate from VIT, Vellore, with project experience in
 - **HDL:** Verilog
 - **EDA & Simulation Tools:** Cadence Virtuoso, Intel Quartus Prime, Xilinx Vivado, ModelSim
 - **Modeling & Simulation:** COMSOL Multiphysics
-- **Design Knowledge:** SRAM, TCAM, Power Analysis, Static Timing Analysis (STA) Fundamentals
+- **Design Knowledge:** Static Timing Analysis (STA) Fundamentals, FPGA Prototyping (Altera DE2-115)
 - **Fabrication & Materials:** Hands-on exposure in Sensor Fabrication, Composite Material Handling (PVDF, Graphene)
 - **Programming:** Core Java, Python (Basics)
 - **Operating Systems:** Windows, Linux
