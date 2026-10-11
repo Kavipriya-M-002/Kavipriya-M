@@ -41,7 +41,7 @@ Implemented an inexact floating-point adder in Verilog and evaluated the trade-o
 
 **Tools:** Verilog, Xilinx Vivado
 
-💻 [Project Repository](ADD_ADDER_REPOSITORY_LINK)
+💻 [Project Repository](https://github.com/Kavipriya-M-002/Error-Estimation-in-inexact-Floating-Point-Adders)
 
 ### 4. Design and Fabrication of a Piezoelectric Sensor
 Modeled a PVDF–Graphene composite piezoelectric sensor using COMSOL Multiphysics and explored material and geometric parameters affecting sensor sensitivity and output voltage.
