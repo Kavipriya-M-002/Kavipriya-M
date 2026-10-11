@@ -48,7 +48,7 @@ Modeled a PVDF–Graphene composite piezoelectric sensor using COMSOL Multiphysi
 
 **Tools:** COMSOL Multiphysics
  
-💻 [Project Repository](ADD_SENSOR_REPOSITORY_LINK)
+💻 [Project Repository](https://github.com/Kavipriya-M-002/Design-and-Fabrication-of-Piezoelectric-Sensor)
 
 ### 5. Smart Assistive Device for Monitoring Health Parameters in Maternal Care
 
