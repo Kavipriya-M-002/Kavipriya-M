@@ -92,7 +92,7 @@ Secured 1st Place in the "Innovation Challenge Track" for our project "Aegistec-
 
 ## 🤝 Connect With Me
 
-- **LinkedIn:** <a href="https://www.linkedin.com/in/kavipriya-m-05717034b/">LinkedIn</a>
-- **GitHub:** [Explore my repositories](https://github.com/Kavipriya-M-002)
+- **LinkedIn:** [View my Profile](https://www.linkedin.com/in/kavipriya-m-05717034b/)
+- **GitHub:** [Explore my Repositories](https://github.com/Kavipriya-M-002)
 - **Email:** kavipriya.murugan002@gmail.com
   
