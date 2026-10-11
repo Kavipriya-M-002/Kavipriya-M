@@ -68,11 +68,11 @@ under the guidance of a Ph.D. faculty mentor at IIITDM Kancheepuram.
 
 ## 📚 Publications and Patents
 
-**IEEE Xplore Publications**
+### IEEE Xplore Publications
 - *Comparative Analysis of SRAM Cells for Low Power Applications* — IC3ET, 2026.
 - *Design and Fabrication of Piezoelectric Sensor* — ICDSNS, 2023.
 
-**Published Indian Patent Applications**
+### Published Indian Patent Applications
 - *Segment-Selective Ternary Content Addressable Memory Architecture with Index-Based Activation* — Application No. 202641076796.
 - *Smart Assistive Device for Monitoring Health Parameters in Maternal Care* — Application No. 202541071973.
 
