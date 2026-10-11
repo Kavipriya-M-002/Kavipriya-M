@@ -56,7 +56,7 @@ A wearable belt-based sensing system designed for maternal and fetal health moni
 
 **Domain:** Wearable Sensor Systems | Maternal & Fetal Health Monitoring
 
-💻 [Project Repository](ADD_SENSOR_REPOSITORY_LINK)
+💻 [Project Repository](https://github.com/Kavipriya-M-002/Smart-Assistive-Device-for-Monitoring-Health-Parameters-for-Maternal-Care)
 
 ## 🔬 Research Experience
 
