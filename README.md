@@ -74,7 +74,7 @@ under the guidance of a Ph.D. faculty mentor at IIITDM Kancheepuram.
 - *Design and Fabrication of Piezoelectric Sensor* — ICDSNS, 2023.
 
 ### Published Indian Patent Applications
-- *Segment-Selective Ternary Content Addressable Memory Architecture with Index-Based Activation* — Application No. 202641076796.
+- *Segment-Selective Ternary Content Addressable Memory Architecture with Index-Based Activation* — Application No. [**202641076796**](documents/202641076796_published.pdf)
 - *Smart Assistive Device for Monitoring Health Parameters in Maternal Care* — Application No. 202541071973.
 
 *(Patent applications are identified as published applications, not granted patents.)*
