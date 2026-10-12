@@ -70,8 +70,8 @@ under the guidance of a Ph.D. faculty mentor at IIITDM Kancheepuram.
 ## 📚 Publications and Patents
 
 ### IEEE Xplore Publications
-- *Comparative Analysis of SRAM Cells for Low Power Applications* — IC3ET, 2026.
-- *Design and Fabrication of Piezoelectric Sensor* — ICDSNS, 2023.
+- *Comparative Analysis of SRAM Cells for Low Power Applications* — IC3ET, 2026. ([view paper](https://ieeexplore.ieee.org/document/11467236))
+- *Design and Fabrication of Piezoelectric Sensor* — ICDSNS, 2023. ([view paper](https://ieeexplore.ieee.org/document/10245329))
 
 ### Published Indian Patent Applications
 - *Segment-Selective Ternary Content Addressable Memory Architecture with Index-Based Activation* — Application No. [202641076796](https://github.com/Kavipriya-M-002/Documents/blob/main/202641076796_published.pdf)
