@@ -79,6 +79,12 @@ under the guidance of a Ph.D. faculty mentor at IIITDM Kancheepuram.
 
 *(Patent applications are identified as published applications, not granted patents.)*
 
+## 📜 Certifications
+
+- **VSD – Static Timing Analysis (STA) – I** — Udemy | Feb 2025
+- **RTL SDC Verification: Finding Timing Bugs Before Synthesis** — Udemy | Oct 2026
+- **AI/ML Workshop – Optical Character Recognition (OCR)** — Proglint Software Solutions | Feb 2023
+
 ## 🏆 Achievements
 
 ### People’s Choice Award 
