@@ -75,7 +75,7 @@ under the guidance of a Ph.D. faculty mentor at IIITDM Kancheepuram.
 
 ### Published Indian Patent Applications
 - *Segment-Selective Ternary Content Addressable Memory Architecture with Index-Based Activation* — Application No. [202641076796](https://github.com/Kavipriya-M-002/Documents/blob/main/202641076796_published.pdf)
-- *Smart Assistive Device for Monitoring Health Parameters in Maternal Care* — Application No. 202541071973.
+- *Smart Assistive Device for Monitoring Health Parameters in Maternal Care* — Application No. [202541071973](https://github.com/Kavipriya-M-002/Documents/blob/main/202541071973_published.pdf)
 
 *(Patent applications are identified as published applications, not granted patents.)*
 
